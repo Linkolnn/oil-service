@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@oilservice.com",
+    "role": "admin",
+    "name": "Администратор",
+    "phone": "+79088966600",
+    "registrationDate": "2025-01-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "username": "user1",
+    "password": "password123",
+    "email": "user1@example.com",
+    "role": "user",
+    "name": "Иван Петров",
+    "phone": "+79001234567",
+    "registrationDate": "2025-04-15T14:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "username": "user2",
+    "password": "password123",
+    "email": "user2@example.com",
+    "role": "user",
+    "name": "Анна Сидорова",
+    "phone": "+79009876543",
+    "registrationDate": "2025-05-01T09:15:00.000Z"
+  }
+]

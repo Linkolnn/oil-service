@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Экспресс замена масла в ДВС",
+    "description": "Быстрая и профессиональная замена масла в двигателе вашего автомобиля. *БЕСПЛАТНО при покупке масла у нас.",
+    "price": 0,
+    "image": "/images/placeholder.png",
+    "category": "oil"
+  },
+  {
+    "id": 2,
+    "title": "Замена масла в МКПП",
+    "description": "Замена трансмиссионного масла в механической коробке передач.",
+    "price": 800,
+    "image": "/images/placeholder.png",
+    "category": "oil"
+  },
+  {
+    "id": 3,
+    "title": "Замена масла в раздаточной коробке",
+    "description": "Замена масла в раздаточной коробке для полноприводных автомобилей.",
+    "price": 700,
+    "image": "/images/placeholder.png",
+    "category": "oil"
+  },
+  {
+    "id": 4,
+    "title": "Замена масла в редукторе",
+    "description": "Замена масла в редукторе переднего или заднего моста.",
+    "price": 700,
+    "image": "/images/placeholder.png",
+    "category": "oil"
+  },
+  {
+    "id": 5,
+    "title": "Замена масла в мостах",
+    "description": "Замена масла в мостах для грузовых автомобилей и внедорожников.",
+    "price": 900,
+    "image": "/images/placeholder.png",
+    "category": "oil"
+  },
+  {
+    "id": 6,
+    "title": "Замена масляного фильтра",
+    "description": "Замена масляного фильтра для обеспечения чистоты масла в двигателе.",
+    "price": 300,
+    "image": "/images/placeholder.png",
+    "category": "filters"
+  },
+  {
+    "id": 7,
+    "title": "Замена воздушного фильтра",
+    "description": "Замена воздушного фильтра для оптимальной работы двигателя.",
+    "price": 300,
+    "image": "/images/placeholder.png",
+    "category": "filters"
+  },
+  {
+    "id": 8,
+    "title": "Замена салонного фильтра",
+    "description": "Замена салонного фильтра для чистого воздуха в салоне автомобиля.",
+    "price": 400,
+    "image": "/images/placeholder.png",
+    "category": "filters"
+  },
+  {
+    "id": 9,
+    "title": "Замена топливного фильтра",
+    "description": "Замена топливного фильтра для защиты топливной системы.",
+    "price": 700,
+    "image": "/images/placeholder.png",
+    "category": "filters"
+  },
+  {
+    "id": 10,
+    "title": "Обработка силиконом резиновых уплотнителей",
+    "description": "Обработка резиновых уплотнителей силиконом для защиты от старения и растрескивания.",
+    "price": 500,
+    "image": "/images/placeholder.png",
+    "category": "maintenance"
+  },
+  {
+    "id": 11,
+    "title": "Обработка петель и замков",
+    "description": "Обработка петель и замков грязеотталкивающим составом для продления срока службы.",
+    "price": 500,
+    "image": "/images/placeholder.png",
+    "category": "maintenance"
+  },
+  {
+    "id": 12,
+    "title": "Компьютерная диагностика",
+    "description": "Полная диагностика электронных систем автомобиля с помощью специального оборудования.",
+    "price": 1500,
+    "image": "/images/placeholder.png",
+    "category": "diagnostics"
+  },
+  {
+    "id": 13,
+    "title": "Диагностика ходовой части",
+    "description": "Полная проверка состояния подвески, рулевого управления и тормозной системы. *БЕСПЛАТНО для всех клиентов.",
+    "price": 0,
+    "image": "/images/placeholder.png",
+    "category": "diagnostics"
+  },
+  {
+    "id": 14,
+    "title": "Видеоэндоскоп",
+    "description": "Осмотр труднодоступных мест с помощью видеоэндоскопа.",
+    "price": 1000,
+    "image": "/images/placeholder.png",
+    "category": "diagnostics"
+  },
+  {
+    "id": 15,
+    "title": "Мелкий ремонт автомобиля",
+    "description": "Мелкий ремонт различных систем автомобиля. Стоимость зависит от сложности работ.",
+    "price": 1000,
+    "image": "/images/placeholder.png",
+    "category": "repair"
+  },
+  {
+    "id": 16,
+    "title": "Тест-проверка пригодности тормозной жидкости",
+    "description": "Проверка состояния тормозной жидкости и определение необходимости ее замены.",
+    "price": 500,
+    "image": "/images/placeholder.png",
+    "category": "diagnostics"
+  }
+]

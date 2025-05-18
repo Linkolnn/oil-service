@@ -1,0 +1,50 @@
+/* SCSS Variables for OIL Service */
+
+// Colors
+$primary-color: #e76d3c;
+$secondary-color: #23272f;
+$text-color: #333;
+$text-light-color: #666;
+$background-color: #f9f9f9;
+$white: #fff;
+$success-color: #27ae60;
+$warning-color: #f39c12;
+$error-color: #c0392b;
+
+// Fonts
+$font-family: 'Roboto', Arial, sans-serif;
+$font-size-base: 16px;
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+// Spacing
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 1rem;
+$spacing-lg: 1.5rem;
+$spacing-xl: 2rem;
+$spacing-xxl: 3rem;
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Border Radius
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$border-radius-lg: 12px;
+$border-radius-circle: 50%;
+
+// Box Shadow
+$box-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.1);
+$box-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+$box-shadow-lg: 0 6px 16px rgba(0, 0, 0, 0.15);
+
+// Transitions
+$transition-fast: 0.2s;
+$transition-normal: 0.3s;
+$transition-slow: 0.5s;
